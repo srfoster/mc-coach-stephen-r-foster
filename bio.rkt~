@@ -1,0 +1,7 @@
+#lang mc-coach/bio
+
+(bio
+  #:name  "Yu"
+  #:profile-pic (square 40 'solid 'red)
+  #:coach-story "A few months ago, I began training as a MetaCoders coach.  Here's my story..."
+)
